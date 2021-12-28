@@ -1,7 +1,7 @@
 
 # downallapt
 
-EN: Download all .deb packages from an apt repository.
+EN: Download all .deb packages from an apt repository.<br>
 ES: Descarga todos los ficheros de los repositorios.
 
 ## Author / Autor: Charlie Martínez <cmartinez@quirinux.org>
