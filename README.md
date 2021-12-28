@@ -9,13 +9,13 @@ GPLv2 License - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 ----------------------ENGLISH----------------------------
 
-## How it works:
+### How it works:
 
 Download all the files .deb from the repositories
 that are enabled in /etc/apt/sources.list and /etc/apt/sources.list.d
 and save them in a new /packages folder
 
-## Instructions:
+### Instructions:
 
 Comment those repositories in /etc/apt/sources.list and /etc/apt/sources.list.d that we do not want to download.
 
@@ -27,13 +27,13 @@ downallapt
 
 ----------------------CASTELLANO-------------------------
 
-## Cómo funciona:
+### Cómo funciona:
 
 Descarga todos los ficheros .deb de los repositorios
 que estén habilitados en /etc/apt/sources.list y /etc/apt/sources.list.d
 y los guarda en una nueva carpeta /packages
 
-## Instrucciones:
+### Instrucciones:
 
 Comentar todos los repositorios en /etc/apt/sources.list y /etc/apt/sources.list.d que no queremos que se descargen. 
 
