@@ -7,7 +7,7 @@ ES: Descarga todos los ficheros de los repositorios.
 ## Author / Autor: Charlie Martínez <cmartinez@quirinux.org>
 GPLv2 License - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
-----------------------ENGLISH----------------------------
+ENGLISH:
 
 ### How it works:
 
@@ -25,7 +25,7 @@ chmod 755 downallapt
 mv downallapt /usr/local/bin/downallapt
 downallapt
 
-----------------------CASTELLANO-------------------------
+CASTELLANO:
 
 ### Cómo funciona:
 
