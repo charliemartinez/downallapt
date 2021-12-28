@@ -21,9 +21,9 @@ Comment those repositories in /etc/apt/sources.list and /etc/apt/sources.list.d 
 
 Run as root:
 
-chmod 755 downallapt
-mv downallapt /usr/local/bin/downallapt
-downallapt
+chmod 755 downallapt <br>
+mv downallapt /usr/local/bin/downallapt <br>
+downallapt <br>
 
 CASTELLANO:
 
@@ -39,6 +39,6 @@ Comentar todos los repositorios en /etc/apt/sources.list y /etc/apt/sources.list
 
 Ejecutar como root:
 
-chmod 755 downallapt
-mv downallapt /usr/local/bin/downallapt
-downallapt
+chmod 755 downallapt <br>
+mv downallapt /usr/local/bin/downallapt <br>
+downallapt <br>
