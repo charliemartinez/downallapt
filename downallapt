@@ -1,13 +1,14 @@
 #!/bin/bash
 
-# -------------------------ENGLISH---------------------------------------
+# downallapt
 
-#downallapt
+# EN: Download all .deb packages from an apt repository.
+# ES: Descarga todos los ficheros de los repositorios.
 
-# Download all .deb packages from an apt repository
-
-# Author: Charlie Martínez <cmartinez@quirinux.org>
+# Author / Autor: Charlie Martínez <cmartinez@quirinux.org>
 # GPLv2 License - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+# -------------------------ENGLISH---------------------------------------
 
 # How it works:
 
@@ -25,19 +26,10 @@
 # mv downallapt /usr/local/bin/downallapt
 # downallapt
 
-
 # -----------------------CASTELLANO-----------------------------
 
-# downallapt
+# Cómo funciona:
 
-# Descargar todos los paquetes .deb de un repositorio apt
-
-# Author: Charlie Martínez <cmartinez@quirinux.org>
-# Licencia GPLv2 - https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-
-# Cómo trabaja:
-
-# Descarga todos los ficheros de los repositorios
 # que estén habilitados en /etc/apt/sources.list y /etc/apt/sources.list.d
 # y los guarda en una nueva carpeta /packages
 
