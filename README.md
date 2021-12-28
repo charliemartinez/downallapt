@@ -11,8 +11,11 @@ that are enabled in /etc/apt/sources.list and /etc/apt/sources.list.d
 and save them in a new / packages folder
 
 ## Instructions:
- 
-Run as root.
+
 Comment those repositories in /etc/apt/sources.list and /etc/apt/sources.list.d that we do not want to download.
 
+Run as root:
 
+chmod 755 downallapt
+mv downallapt /usr/local/bin/downallapt
+downallapt
