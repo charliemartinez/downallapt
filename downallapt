@@ -16,9 +16,15 @@
 # and save them in a new / packages folder
 
 # Instructions:
- 
-# Run as root.
-# Comment those repositories in /etc/apt/sources.list and /etc/apt/sources.list.d that we do not want to download. 
+
+# Comment those repositories in /etc/apt/sources.list and /etc/apt/sources.list.d that we do not want to download.
+
+# Run as root:
+
+# chmod 755 downallapt
+# mv downallapt /usr/local/bin/downallapt
+# downallapt
+
 
 # -----------------------CASTELLANO-----------------------------
 
@@ -37,8 +43,13 @@
 
 # Instrucciones:
  
-# Ejecutar como root.
 # Comentar aquellos repositorios en /etc/apt/sources.list y /etc/apt/sources.list.d que no queremos descargar.
+
+# Ejecutar como root:
+
+# chmod 755 downallapt
+# mv downallapt /usr/local/bin/downallapt
+# downallapt
 
 
 FILE="./packages"
